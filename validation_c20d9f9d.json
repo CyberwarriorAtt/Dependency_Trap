@@ -1,0 +1,12 @@
+{
+  "record_id": "c20d9f9d-92ce-49a0-98bc-f5b6c9ab324c",
+  "agent_id": "DepTrap-996539577fde5824",
+  "package": "task_runner.py",
+  "version": null,
+  "risk_level": "high",
+  "findings_count": 1,
+  "summary": "Analysis of task_runner.py completed (simulated Gemma path).",
+  "timestamp": "2026-10-31T07:24:13.628348+00:00",
+  "tx_signature": "6ecf716cb6286925b82059b2a3d0a68fdefdba3e39978e7c2386e56059fced7cbdcd24475f23df4a722c6f273a307e2f",
+  "onchain": false
+}

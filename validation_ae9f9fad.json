@@ -1,0 +1,12 @@
+{
+  "record_id": "ae9f9fad-dfd3-4b51-a728-fa6429a97b36",
+  "agent_id": "DepTrap-996539577fde5824",
+  "package": "config_loader.py",
+  "version": null,
+  "risk_level": "critical",
+  "findings_count": 1,
+  "summary": "Analysis of config_loader.py completed (simulated Gemma path).",
+  "timestamp": "2026-10-31T07:24:12.951225+00:00",
+  "tx_signature": "cd0e530a4b0c6195e9489fa9bf2ba18235c7db41227b5cac2500f69554bd25f7223f096131dd38d94fe31302e68a7a2d",
+  "onchain": false
+}

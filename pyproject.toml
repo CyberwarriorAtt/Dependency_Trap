@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dependencytrap"
+version = "0.1.0"
+description = "Open-Source Dependency Trap Code Guard – autonomous supply-chain security agent powered by Gemma 4"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+    "ollama>=0.4.0",
+    "requests>=2.32.0",
+    "pydantic>=2.8.0",
+    "rich>=13.7.0",
+    "typer>=0.12.0",
+    "python-dotenv>=1.0.0",
+    "pyyaml>=6.0.1",
+    "packaging>=24.0",
+]
+
+[project.scripts]
+dependencytrap = "dependencytrap.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]

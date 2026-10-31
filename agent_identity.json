@@ -1,0 +1,10 @@
+{
+  "agent_id": "DepTrap-996539577fde5824",
+  "name": "DependencyTrap Security Agent",
+  "description": "Autonomous open-source supply-chain guardian. Scans packages with Gemma 4, cross-checks known compromised indexes, and writes immutable validation records on Solana.",
+  "registration_uri": "https://github.com/your-org/DependencyTrap/blob/main/agent-card.json",
+  "owner": "SimulatedOwner111111111111111111111111111",
+  "registered_at": "2026-10-31T07:24:10.764428+00:00",
+  "tx_signature": "da8e9796563d3bdfa41dc6b834680e3ad24aa6112a7c84bbb642e7fc4b4c6f70926e0818c60f97085e76075590b11eca",
+  "onchain": false
+}

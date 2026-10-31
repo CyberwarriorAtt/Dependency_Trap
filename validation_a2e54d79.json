@@ -1,0 +1,12 @@
+{
+  "record_id": "a2e54d79-9798-4722-97a1-e9f2e04f3ea7",
+  "agent_id": "DepTrap-996539577fde5824",
+  "package": "event-stream",
+  "version": "3.3.6",
+  "risk_level": "critical",
+  "findings_count": 1,
+  "summary": "Malicious code stole cryptocurrency wallets",
+  "timestamp": "2026-10-31T07:24:13.834821+00:00",
+  "tx_signature": "1c88c0358a7af7b8f4d9d016319d465bce0781240e01e87ffdb1fc78d8f8e462e8a973f3f348075d6709eeb9fa58b5bd",
+  "onchain": false
+}

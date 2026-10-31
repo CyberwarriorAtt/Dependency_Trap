@@ -1,0 +1,12 @@
+{
+  "record_id": "3093720e-88c7-4c1b-824f-129c46d2f7de",
+  "agent_id": "DepTrap-996539577fde5824",
+  "package": "innocent_logger.py",
+  "version": null,
+  "risk_level": "high",
+  "findings_count": 1,
+  "summary": "Analysis of innocent_logger.py completed (simulated Gemma path).",
+  "timestamp": "2026-10-31T07:24:13.275804+00:00",
+  "tx_signature": "e7135ac5819e2b44588303b31c3e110543dedc3a800039ff5cd99abde7c86e7c84b3153bcca1782cfc621f643cdaecda",
+  "onchain": false
+}

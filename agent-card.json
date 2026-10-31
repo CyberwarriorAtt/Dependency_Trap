@@ -1,0 +1,18 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "DependencyTrap Security Agent",
+  "description": "Autonomous open-source supply-chain guardian. Scans packages with Gemma 4, cross-checks known compromised indexes, and writes immutable validation records on Solana.",
+  "image": "https://raw.githubusercontent.com/your-org/DependencyTrap/main/assets/logo.png",
+  "services": [
+    {
+      "name": "scan",
+      "endpoint": "local://dependencytrap"
+    }
+  ],
+  "active": true,
+  "skills": [
+    "security/vulnerability_analysis",
+    "supply_chain/dependency_scanning"
+  ],
+  "registrations": []
+}

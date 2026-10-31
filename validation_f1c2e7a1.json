@@ -1,0 +1,12 @@
+{
+  "record_id": "f1c2e7a1-60b0-40ba-9b64-111c544fdc57",
+  "agent_id": "DepTrap-996539577fde5824",
+  "package": "auth_helper.py",
+  "version": null,
+  "risk_level": "high",
+  "findings_count": 1,
+  "summary": "Analysis of auth_helper.py completed (simulated Gemma path).",
+  "timestamp": "2026-10-31T07:24:12.593386+00:00",
+  "tx_signature": "46babcf5bdb3c83881dc7d699e16b39afe6f8a007fbef2c6b9ab68e30b624e1bdb8fc0bc97b67e2bb724778a2e6a2eda",
+  "onchain": false
+}

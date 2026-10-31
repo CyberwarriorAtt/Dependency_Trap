@@ -1,0 +1,12 @@
+{
+  "record_id": "e26847a9-8c43-478d-9a7a-275b0bbf9333",
+  "agent_id": "DepTrap-996539577fde5824",
+  "package": "ctx",
+  "version": "0.1.4",
+  "risk_level": "critical",
+  "findings_count": 1,
+  "summary": "Typosquat that exfiltrated environment variables (AWS keys etc.)",
+  "timestamp": "2026-10-31T07:24:14.140600+00:00",
+  "tx_signature": "67ba8671b40444baf6c3c06bbdf616d465f5f3cc2517669b8f4a8bcc6ba138ff0adc3589d2e6463beec2712319ded7f5",
+  "onchain": false
+}
